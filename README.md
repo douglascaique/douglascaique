@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Douglas Caíque 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/douglascaique">
@@ -14,12 +14,12 @@
  
  <br>
  
-  ### Para saber mais sobre mim, listei alguns conteúdos abaixo!
+  ### Para saber mais sobre mim, listei algumas redes sociais!
  
 <div> 
 
   <a href = "mailto:douglasocontato@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglascaiquesds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/douglascaiquesds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/douglascaique/douglascaique/blob/output/github-contribution-grid-snake.svg)
 
