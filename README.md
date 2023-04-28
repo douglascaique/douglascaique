@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+Futuro Desenvolvedor Web e Docente de lógica para adolescentes - Universidade Federal da Bahia
+
  <div>
    <a href="https://github.com/douglascaique">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=douglascaique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
