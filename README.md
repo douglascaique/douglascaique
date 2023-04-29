@@ -17,7 +17,6 @@ Futuro Desenvolvedor Web e Docente de lógica para adolescentes - Universidade F
  
  <br>
  
-  ### Para saber mais sobre mim, listei algumas redes sociais!
  
 <div> 
 
