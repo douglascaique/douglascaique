@@ -1,6 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-Futuro Desenvolvedor Web e Docente de lógica para adolescentes - Universidade Federal da Bahia
+- Atualmente sou Estudante do Programa Desenvolve 3º Edição pelo Grupo Boticário em parceria com a Alura
+- Gosto de conversar sobre sistemas possíveis para negócios locais como bares, padarias e empreendimentos fora da caixa :)
+- Quero ser professor de Lógica de Programação para crianças e adolescentes algum dia!
 
  <div>
    <a href="https://github.com/douglascaique">
