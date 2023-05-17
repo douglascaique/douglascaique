@@ -1,4 +1,4 @@
-<h1>Bem-vindo(a) ao meu perfil 😁</h1>
+<h1>Hi, I'm Douglas Caíque</h1>
 
 - Atualmente sou Estudante do Programa Desenvolve 3º Edição pelo Grupo Boticário em parceria com a Alura
 - Gosto de conversar sobre sistemas possíveis para negócios locais como bares, padarias e empreendimentos fora da caixa :)
