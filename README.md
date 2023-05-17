@@ -1,6 +1,7 @@
 <h1>Hi, I'm Douglas Caíque</h1>
+<h3>Dev no programa Desenvolve</h3>
 
-- Atualmente sou Estudante do Programa Desenvolve 3º Edição pelo Grupo Boticário em parceria com a Alura
+- Estudante da Trilha Full Stack no Programa Desenvolve 3º Edição pelo Grupo Boticário em parceria com a Alura
 - Gosto de conversar sobre sistemas possíveis para negócios locais como bares, padarias e empreendimentos fora da caixa :)
 - Quero ser professor de Lógica de Programação para crianças e adolescentes algum dia!
 
