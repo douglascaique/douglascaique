@@ -1,7 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
+
+<div align="center">
+
 <h1 align="center">Hi, I'm Douglas Caíque</h1>
 <h3 align="center">Dev no programa Desenvolve</h3>
 
-<p>  </p>
+<div align='left'>
 
 - 📝Estudante da Trilha Full Stack no **Programa Desenvolve 3º Edição pelo Grupo Boticário em parceria com a Alura**
 
@@ -9,17 +13,17 @@
 
 - Um dia quero ser professor de Lógica de Programação para crianças e adolescentes
 
-
+ </div>
 <br>
+ 
  <div align="center">
    <a href="https://github.com/douglascaique">
-   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=douglascaique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-    
+   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=douglascaique&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status+do+perfil""/> 
    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascaique&layout=compact&langs_count=6"/>
 </div>
- 
+ <hr>
  <br>
+  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -32,10 +36,19 @@
 ###
  
  <br>
- 
- 
-<div align="center"> 
+<hr>
+<div align="center">
+                   
+ <a href="https://www.linkedin.com/in/douglascaiquesds/">              
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" 
+  /> 
+  </a>
+  
+ <a href="https://dev.to/douglascaique">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+  
+ <a href="https://codepen.io/douglascaique">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
 
- <p>Se conecte comigo pelo: </p>
-  <a href="https://www.linkedin.com/in/douglascaiquesds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
