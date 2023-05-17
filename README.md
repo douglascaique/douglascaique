@@ -19,7 +19,7 @@
    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascaique&layout=compact&langs_count=6"/>
 </div>
  
- 
+ <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
