@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<h1 align="center">Hi, I'm Douglas Caíque</h1>
-<h3 align="center">Dev no programa Desenvolve</h3>
+<h1 align="center">Olá, so o Douglas Caíque</h1>
+<h3 align="center">Estudante da Trilha de Desenvolvimento Full Stack no programa Desenvolve</h3>
 
 <div align='left'>
 
