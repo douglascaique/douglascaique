@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 align="center">Olá, so o Douglas Caíque</h1>
+<h1 align="center">Olá, sou Douglas Caíque</h1>
 <h3 align="center">Estudante da Trilha de Desenvolvimento Full Stack no programa Desenvolve</h3>
 
 <div align='left'>
