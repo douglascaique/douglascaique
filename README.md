@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
 
-<div align="center">
+<div align="left">
 
 <h1 align="center">Olá, sou Douglas Caíque</h1>
 <h3 align="center">Estudante da Trilha de Desenvolvimento Full Stack no programa Desenvolve</h3>
