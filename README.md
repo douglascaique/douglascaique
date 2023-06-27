@@ -11,7 +11,7 @@
 
 - Gosto de conversar sobre sistemas possíveis para negócios locais como bares, padarias e empreendimentos fora da caixa :)
 
-- Quero ser professor de Lógica de Programação para crianças e adolescentes
+- Busco vagas de Dev Jr!
 
  </div>
  <div align="center">
