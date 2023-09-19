@@ -4,12 +4,9 @@
 </h1
  
 <p>
-Em processo de transição de carreira para o mundo da tecnologia, com foco em Front End. Apaixonado por frameworks que possibilitem animações limpas e funcionais, animado por uma
-projetos em que eu consiga e facilite tirar as ideias do esboço, com minhas habilidades e criatividade para solucionar problemas. Minha experiência anterior com educação e desenvolvimento cognitivo se tornou grande aliado nessa nova etapa e estou animado com tudo que vivi até agora, espero continuar melhorando e alcançando novos níveis como profissional.
+I'm Front'end student
 <br>
 ----
-<br>
-I'm in the process of transitioning my carrer to the tech world, focusing on Front End. Passionate about frameworks that enable clean and functional animations, excited about projects where i can bring ideas from the sketch to life, utilizing my skills and criativity to solve problems. My previous experience in education and cognitive development has become a great asset in this new stage, and i'm excited about everything i have experienced so far. I hope to continue improving and reaching new levels as a professional.
 </p>
 
 ## ⭐ programming language, database and version control system
