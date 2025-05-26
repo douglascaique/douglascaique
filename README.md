@@ -2,8 +2,7 @@
 <h1 align="left">
  Welcome!
 </h1
- 
-<p>25 year's old, system development student focusing on web development!
+
 <br>
 </p>
 
